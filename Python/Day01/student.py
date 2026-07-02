@@ -1,0 +1,10 @@
+name = input("Enter Name : ")
+age = input("Enter age : ")
+city = input("Enter City : ")
+print()
+print("Student Information") 
+print("--------------------------")
+print("Name : " , name)
+print("Age : ",age)
+print("City : ", city)
+
