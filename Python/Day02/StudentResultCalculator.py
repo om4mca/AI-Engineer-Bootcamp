@@ -72,7 +72,7 @@ print("Student Name : ", name)
 print("Total Marks : ", total)
 print(f"Percentage : {percentage:.2f}")
 print("Grade : ", grade)
-print("Result : ", result)
+print("Final Result :", result)
 print("Highest Marks Subject : ", highest_subject)
 print("Lowest Marks Subject : ", lowest_subject)
 
