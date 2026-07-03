@@ -53,14 +53,24 @@ elif percentage>=50:
 else:
     grade="F"
 
-result="Pass" if percentage>=50 else "Fail"
+#result="Pass" if percentage>=50 else "Fail"
+
+
+
+if physics < 33 or chemistry < 33 or maths < 33:
+    result = "Fail"
+elif percentage >= 50:
+    result = "Pass"
+else:
+    result = "Fail"
+
 
 print()
 print("*************Student Result*************")
 print("----------------------------------------")
 print("Student Name : ", name)
 print("Total Marks : ", total)
-print("Percentage : ", percentage)
+print(f"Percentage : {percentage:.2f}")
 print("Grade : ", grade)
 print("Result : ", result)
 print("Highest Marks Subject : ", highest_subject)
@@ -69,8 +79,10 @@ print("Lowest Marks Subject : ", lowest_subject)
 distinction="Yes" if percentage>=75 else "No"
 print("Distinction : ", distinction)
 
-fail="Yes" if physics<33 or chemistry<33 or maths<33 else "No"
-print("Fail in any subject : ", fail)   
+
+
+#fail="Yes" if physics<33 or chemistry<33 or maths<33 else "No"
+print("Fail in any subject : ", result)   
 
 
 
