@@ -11,7 +11,21 @@ department = input("Enter Your Department : ")
 name = input("Enter Your Name : ")
 fixed_number = input("Enter Fixed Number : ")
 
-employee_id = department[:2].upper() + '-' + name[:2].upper() + '-' + fixed_number
+
+parts = name.split()
+
+initials = ""
+
+for part in parts:
+    initials += part[0].upper()
+
+employee_id = f"{department[:2].upper()}-{initials}-{fixed_number}"
+
+
+#employee_id = department[:2].upper() + '-' + name[:2].upper() + '-' + fixed_number
 print(f"Your Employee ID is: {employee_id}")
+
+
+
 
 #End of the program
