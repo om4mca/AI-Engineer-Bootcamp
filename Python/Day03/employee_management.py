@@ -11,8 +11,15 @@ department=input("Enter Department : ")
 basic_salary=float(input("Enter Basic Salary : "))
 bonus=float(input("Enter Bonus : "))
 tax=float(input("Enter Tax : "))
-net_salary=basic_salary+bonus-tax
-gross_salary=basic_salary+bonus
+# net_salary=basic_salary+bonus-tax
+# gross_salary=basic_salary+bonus
+
+
+gross_salary = basic_salary + bonus
+
+tax_amount = gross_salary * tax / 100
+
+net_salary = gross_salary - tax_amount
 
 print()
 print("-------Employee Management System----------")
@@ -22,7 +29,7 @@ print(f"Department : {department}")
 print(f"Basic Salary : {basic_salary}")
 print(f"Bonus : {bonus}")
 print(f"Gross Salary : {gross_salary}")
-print(f"Tax Amount: {tax}")
+print(f"Tax Amount: {tax_amount}")
 print(f"Net Salary : {net_salary}")
 
 
