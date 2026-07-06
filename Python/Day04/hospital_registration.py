@@ -14,7 +14,7 @@ age=int(input("Enter Age : "))
 gender=input("Enter Gender : ")
 department=input("Enter Department : ")
 consultation_fee=float(input("Enter Consultation Fee : "))
-discount_percent=float(input("Enter Discount % : "))
+#discount_percent=float(input("Enter Discount % : "))
 if age<5:
     discount=consultation_fee*50/100
 elif age>=60:
