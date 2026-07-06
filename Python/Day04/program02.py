@@ -5,6 +5,7 @@
 # Author: Om Roy
 # Date: 06-07-2026
 
+
 print("Enter a number : ")
 num=int(input())
 if num>0:
