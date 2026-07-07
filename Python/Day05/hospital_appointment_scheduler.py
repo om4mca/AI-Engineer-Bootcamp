@@ -23,4 +23,5 @@ for i in range(1, patients + 1):
         print("\n☕ [BREAK] Doctor Break (10 Minutes)\n")
 
 
+
 #End of the program
