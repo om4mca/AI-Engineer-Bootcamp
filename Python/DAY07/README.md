@@ -1,4 +1,4 @@
-# 🚀 AI Engineer Bootcamp - Day 05
+# 🚀 AI Engineer Bootcamp - Day 07
 
 ## 📅 Date
 09-07-2026
