@@ -1,4 +1,4 @@
-# 🚀 AI Engineer Bootcamp - Day 08
+# 🚀 AI Engineer Bootcamp - Day 09
 
 ## 📅 Date
 11-07-2026
