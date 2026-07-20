@@ -1,0 +1,11 @@
+[
+    {
+        "emp_id": "E101",
+        "type": "FullTime",
+        "name": "Om Narayan Roy",
+        "department": "It",
+        "role": "Ssd",
+        "base_salary": 9500.0,
+        "bonus": 12.0
+    }
+]
