@@ -1,0 +1,9 @@
+[
+    {
+        "emp_id": "EMP101",
+        "name": "OM",
+        "department": "IT",
+        "salary": 95000.0,
+        "email": "om4mca@gmail.com"
+    }
+]

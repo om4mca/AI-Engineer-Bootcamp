@@ -1,0 +1,21 @@
+{
+    "summary": {
+        "processed": 2,
+        "failed": 2,
+        "total_amount": 600.5
+    },
+    "data": [
+        {
+            "id": "101",
+            "user": "Alice",
+            "status": "completed",
+            "amount": 150.5
+        },
+        {
+            "id": "104",
+            "user": "Charlie",
+            "status": "completed",
+            "amount": 450.0
+        }
+    ]
+}

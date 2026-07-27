@@ -1,0 +1,14 @@
+2026-07-27 17:19:17,873 - INFO - Starting operation: Load Patients from File
+2026-07-27 17:19:17,873 - INFO - Successfully completed: Load Patients from File
+2026-07-27 17:19:47,977 - INFO - Starting operation: Add Patient
+2026-07-27 17:19:47,977 - INFO - Successfully completed: Add Patient
+2026-07-27 17:19:56,426 - INFO - Starting operation: View All Patients
+2026-07-27 17:19:56,427 - INFO - Successfully completed: View All Patients
+2026-07-27 17:20:09,058 - INFO - Starting operation: Search Patient
+2026-07-27 17:20:09,059 - INFO - Successfully completed: Search Patient
+2026-07-27 17:20:20,354 - INFO - Starting operation: Save Patients to File
+2026-07-27 17:20:20,355 - INFO - Successfully completed: Save Patients to File
+2026-07-27 17:20:49,266 - INFO - Starting operation: Load Patients from File
+2026-07-27 17:20:49,275 - INFO - Successfully completed: Load Patients from File
+2026-07-27 17:21:18,938 - INFO - Starting operation: Save Patients to File
+2026-07-27 17:21:18,939 - INFO - Successfully completed: Save Patients to File
