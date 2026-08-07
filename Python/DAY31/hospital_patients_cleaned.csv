@@ -1,0 +1,13 @@
+PatientID,Name,Department,Doctor,Bill,Age,StayDays
+P001,John Doe,Cardiology,Dr. Smith,15000.5,45,5
+P002,Jane Smith,Neurology,Dr. Adams,22000.0,52,8
+P003,Robert Brown,Cardiology,Dr. Smith,19800.0,61,12
+P004,Emily Davis,Orthopedics,Dr. Taylor,8500.75,29,3
+P005,Michael Wilson,Neurology,Dr. Adams,18500.0,48,7
+P006,Sarah Miller,Pediatrics,Dr. Lee,4200.0,8,2
+P007,David Clark,Cardiology,Dr. Smith,31000.0,67,14
+P008,Laura White,Orthopedics,Dr. Taylor,12000.0,48,5
+P009,James Green,Pediatrics,Dr. Lee,3100.25,5,1
+P010,Patricia Hall,Neurology,Dr. Adams,26500.0,59,5
+P011,Richard Young,Cardiology,Dr. Smith,19800.0,50,6
+P012,Barbara King,Orthopedics,Dr. Taylor,14200.0,41,4

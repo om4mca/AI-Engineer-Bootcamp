@@ -1,0 +1,8 @@
+EmployeeID,Name,Department,Age,Salary,Experience,City
+EMP01,Alice,IT,28,120000,5,New York
+EMP02,Bob,Sales,45,75000,12,New York
+EMP03,Charlie,IT,34,140000,8,Chicago
+EMP04,David,HR,24,65000,2,Chicago
+EMP05,Eva,Sales,52,85000,14,New York
+EMP06,Frank,IT,31,110000,6,Chicago
+EMP07,Grace,HR,29,68000,3,New York
